@@ -20,6 +20,9 @@ React Native Example integration with firebase in Expo project.
 
 ### Running & Testing
 
+ Edit your firebase credentials in "app/firebase/config.js".
+
+
     start: expo start
     run on android: expo start --android
     run on ios: expo start --ios
